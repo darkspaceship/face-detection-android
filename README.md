@@ -11,4 +11,4 @@ Screen Shots
 
 ![alt text][logo]
 
-[logo]: https://github.com/darkspaceship/face-detection-android/ScreenShots/scr_1.png "ScreenShot taken from device"
+[logo]: https://github.com/darkspaceship/face-detection-android/blob/master/ScreenShots/scr_1.png "ScreenShot taken from device"
